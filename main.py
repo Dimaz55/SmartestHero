@@ -27,5 +27,5 @@ def get_smartest_hero(heroes_list):
 
 
 if __name__ == "__main__":
-    heroes = ['Hulk', 'Captain America', 'Thanos']  # https://superheroapi.com/ids.html
+    heroes = ['Hulk', 'Captain America', 'Thanos']
     print('Smartest hero is:', get_smartest_hero(heroes))
